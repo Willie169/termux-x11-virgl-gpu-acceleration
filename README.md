@@ -34,7 +34,7 @@ Run in Termux:
 ```
 pkg update
 pkg install x11-repo tur-repo -y
-pkg install mesa-vulkan-icd-freedreno mesa-demos mesa-zink tigervnc virglrenderer-mesa-zink -y
+pkg install mesa-vulkan-icd-freedreno mesa-demos mesa-zink virglrenderer-mesa-zink -y
 ```
 
 ## VirGL Server
